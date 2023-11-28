@@ -12,3 +12,12 @@ The data set provided contain the following information:
 * Products
 * Customers
 * Departments
+
+# Folder 📂 
+The basket folder was separated into the following folders:
+
+* Project Management: Contains the Project Brief
+* Data: Separated into Original and Prepared Data.
+* Scripts: Contains all the Python coding involved for the entire analysis process
+* Analysis: Contains the Visualizations used for developing insights and presenting on the final report
+* Sent to client: Contains the Final Report in Excel
